@@ -9,7 +9,7 @@ During the process, Railway will clone this repository for you. In there, you fi
 ```diff
 - FROM ghcr.io/quirrel-dev/quirrel:main
 + FROM ghcr.io/quirrel-dev/quirrel:sha-f218c98
-```
+``
 
 Check Quirrel's [Docker image page](https://github.com/quirrel-dev/quirrel/pkgs/container/quirrel) to find the exact version you want to pin.
 
